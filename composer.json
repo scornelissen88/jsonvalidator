@@ -1,0 +1,15 @@
+{
+	"name": "vrijdag/jsonvalidator",
+	"version": "0.1",
+	"description": "JSON Validator",
+	"require": {
+		"php": ">=7.2"
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"JsonValidator\\": "src/"
+		}
+	}
+}
