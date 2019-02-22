@@ -1,10 +1,10 @@
-To using composer:
+Use using composer:
 
 ```
 composer require dewebontw/jsonvalidator ^0.1
 ```
 
-Beware that this is currenly more a proof of concept, as does more or less basic JSON validation.
+Beware that this is currently more a proof of concept, as it does more or less basic JSON validation.
 
 ## The why:
 
